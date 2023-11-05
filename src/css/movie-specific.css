@@ -1,5 +1,5 @@
 .movie-specific {
-    background: url("../Images/movie\ poster.png") no-repeat;
+    background: url("../CSS/Images/movie\ poster.png") no-repeat;
     background-size: cover;
     min-height: 50vh;
     position: relative;
