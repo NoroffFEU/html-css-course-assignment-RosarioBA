@@ -1,5 +1,7 @@
 
-# HTML & css Course Assignment
+# HTML & CSS Course Assignment
+
+![Website Screenshot](/assets/Images/) ![alt text](image.png)
 
 A video streaming website where users can purchase high-quality videos directly from the creators. The website is designed to make it easy for users to discover great collections or browse through different categories to find films they love.
 
